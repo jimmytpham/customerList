@@ -1,0 +1,17 @@
+D:\School\COMP 2211\RetailStore\bin\Debug\net6.0-windows\RetailStore.exe
+D:\School\COMP 2211\RetailStore\bin\Debug\net6.0-windows\RetailStore.deps.json
+D:\School\COMP 2211\RetailStore\bin\Debug\net6.0-windows\RetailStore.runtimeconfig.json
+D:\School\COMP 2211\RetailStore\bin\Debug\net6.0-windows\RetailStore.dll
+D:\School\COMP 2211\RetailStore\bin\Debug\net6.0-windows\RetailStore.pdb
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\RetailStore.csproj.AssemblyReference.cache
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\RetailStore.Form1.resources
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\RetailStore.csproj.GenerateResource.cache
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\RetailStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\RetailStore.AssemblyInfoInputs.cache
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\RetailStore.AssemblyInfo.cs
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\RetailStore.csproj.CoreCompileInputs.cache
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\RetailStore.dll
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\refint\RetailStore.dll
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\RetailStore.pdb
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\RetailStore.genruntimeconfig.cache
+D:\School\COMP 2211\RetailStore\obj\Debug\net6.0-windows\ref\RetailStore.dll
